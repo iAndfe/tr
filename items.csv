@@ -1,0 +1,75 @@
+﻿fid,old_new,restriction,length,road,x,y,ruler
+2,New,No-stopping,214.1112945,Ngaio Gorge Road,1748760.928,5431238.705,Bottomleft
+2,New,No-stopping,214.1112945,Ngaio Gorge Road,1748960.37,5431269.358,Bottomleft
+3,New,No-stopping,431.8080173,Ngaio Gorge Road,1748459.77,5431271.882,Bottomleft
+3,New,No-stopping,431.8080173,Ngaio Gorge Road,1748750.696,5431230.601,Bottomleft
+6,Extension,No-stopping,546.382236,Kaiwharawhara Road,1749066.529,5431182.391,Bottomleft
+6,Extension,No-stopping,546.382236,Kaiwharawhara Road,1749507.201,5431084.214,Bottomleft
+11,New,No-stopping,12.99329226,Ngaio Gorge Road,1748417.905,5431289.171,Bottomleft
+11,New,No-stopping,12.99329226,Ngaio Gorge Road,1748406.191,5431294.781,Bottomleft
+16,New,No-stopping,35.84828021,Kenya Street,1748400.953,5431464.845,Bottomleft
+16,New,No-stopping,35.84828021,Kenya Street,1748394.47,5431430.712,Bottomleft
+21,Extension,No-stopping,50.56697113,Kaiwharawhara Road,1749877.249,5430858.949,Bottomleft
+21,Extension,No-stopping,50.56697113,Kaiwharawhara Road,1749910.062,5430821.293,Bottomleft
+23,Extension,No-stopping,228.2789452,Kaiwharawhara Road,1749869.285,5430866.3,Bottomleft
+23,Extension,No-stopping,228.2789452,Kaiwharawhara Road,1749707.893,5431027.676,Bottomleft
+57,New,Bus stop,15.01999855,Ngaio Gorge Road,1748417.785,5431288.896,Bottomleft
+57,New,Bus stop,15.01999855,Ngaio Gorge Road,1748431.566,5431282.928,Bottomleft
+58,New,Bus stop,13.06154734,Ngaio Gorge Road,1748750.897,5431230.332,Bottomleft
+58,New,Bus stop,13.06154734,Ngaio Gorge Road,1748761.143,5431238.431,Bottomleft
+59,New,Bus stop,15.05474283,Ngaio Gorge Road,1748960.387,5431268.997,Bottomleft
+59,New,Bus stop,15.05474283,Ngaio Gorge Road,1748973.292,5431261.247,Bottomleft
+60,New,Bus stop,21.28283876,Kaiwharawhara Road,1749507.201,5431084.214,Bottomleft
+60,New,Bus stop,21.28283876,Kaiwharawhara Road,1749527.832,5431079.21,Bottomleft
+62,Old,No-stopping,187.3560052,Kaiwharawhara Road,1749528.664,5431079.468,Bottomleft
+62,Old,No-stopping,187.3560052,Kaiwharawhara Road,1749700.048,5431035.781,Bottomleft
+65,Old,Bus stop,15.01857908,Kenya Street,1748401.211,5431465.207,Bottomleft
+65,Old,Bus stop,15.01857908,Kenya Street,1748409.167,5431477.943,Bottomleft
+69,Old,No-stopping,10.48588885,Kenya Street,1748412.201,5431482.715,Bottomleft
+69,Old,No-stopping,10.48588885,Kenya Street,1748417.893,5431491.52,Bottomleft
+70,Old,No-stopping,34.81180303,Kenya Street,1748430.251,5431511.08,Bottomleft
+70,Old,No-stopping,34.81180303,Kenya Street,1748448.601,5431540.655,Bottomleft
+71,Old,No-stopping,33.91276217,Kenya Street,1748400.558,5431390.907,Bottomleft
+71,Old,No-stopping,33.91276217,Kenya Street,1748397.366,5431357.841,Bottomleft
+74,Old,Bus stop,10.83898302,Kaiwharawhara Road,1749869.285,5430866.3,Bottomleft
+74,Old,Bus stop,10.83898302,Kaiwharawhara Road,1749877.249,5430858.949,Bottomleft
+75,Old,Bus stop,11.28166106,Kaiwharawhara Road,1749700.048,5431035.781,Bottomleft
+75,Old,Bus stop,11.28166106,Kaiwharawhara Road,1749707.893,5431027.676,Bottomleft
+76,Old,No-stopping,38.08553057,Kenya Street,1748562.421,5431738.139,Bottomleft
+76,Old,No-stopping,38.08553057,Kenya Street,1748581.302,5431770.615,Bottomleft
+77,Extension,No-stopping,25.8124506,Crofton Road,1748581.302,5431770.615,Bottomleft
+77,Extension,No-stopping,25.8124506,Crofton Road,1748571.931,5431794.079,Bottomleft
+85,Old,No-stopping,5.026047928,Kenya Street,1748547.833,5431717.748,Bottomleft
+85,Old,No-stopping,5.026047928,Kenya Street,1748544.992,5431713.603,Bottomleft
+86,New,P10,5.946616649,Kenya Street,1748558.939,5431733.32,Bottomleft
+86,New,P10,5.946616649,Kenya Street,1748562.421,5431738.139,Bottomleft
+88,New,No-stopping,133.5621421,Ngaio Gorge Road,1748974.248,5431261.016,Bottomleft
+88,New,No-stopping,133.5621421,Ngaio Gorge Road,1749066.529,5431182.391,Bottomleft
+14,Extension,No-stopping,178.3255591,Kenya Street,1748426.133,5431489.177,Topright
+14,Extension,No-stopping,178.3255591,Kenya Street,1748394.214,5431321.551,Topright
+15,New,No-stopping,272.427237,Kenya Street,1748571.386,5431735.658,Topright
+15,New,No-stopping,272.427237,Kenya Street,1748434.258,5431502.14,Topright
+17,New,No-stopping,114.8433508,Crofton Road,1748566.258,5431914.157,Topright
+17,New,No-stopping,114.8433508,Crofton Road,1748580.937,5431801.196,Topright
+40,New,No-stopping,8.584484361,Kaiwharawhara Road,1749831.56,5430924.211,Topright
+40,New,No-stopping,8.584484361,Kaiwharawhara Road,1749825.464,5430930.254,Topright
+63,Old,Bus stop,11.00842307,Kaiwharawhara Road,1749724.136,5431029.263,Topright
+63,Old,Bus stop,11.00842307,Kaiwharawhara Road,1749731.966,5431021.528,Topright
+64,Old,Bus stop,14.39194252,Kenya Street,1748426.431,5431489.452,Topright
+64,Old,Bus stop,14.39194252,Kenya Street,1748434.009,5431501.685,Topright
+67,Old,No-stopping,12.91546173,Kaiwharawhara Road,1749893.452,5430862.235,Topright
+67,Old,No-stopping,12.91546173,Kaiwharawhara Road,1749902.642,5430853.163,Topright
+72,Old,No-stopping,26.22639729,Kaiwharawhara Road,1749316.612,5431099.381,Topright
+72,Old,No-stopping,26.22639729,Kaiwharawhara Road,1749339.977,5431111.205,Topright
+73,Old,No-stopping,66.95256081,Kaiwharawhara Road,1749351.423,5431115.435,Topright
+73,Old,No-stopping,66.95256081,Kaiwharawhara Road,1749417.618,5431120.136,Topright
+78,Old,No-stopping,83.13828389,Ngaio Gorge Road,1748394.214,5431321.551,Topright
+78,Old,No-stopping,83.13828389,Ngaio Gorge Road,1748462.772,5431282.287,Topright
+79,Old,Bus stop,13.45738703,Crofton Road,1748586.867,5431789.13,Topright
+79,Old,Bus stop,13.45738703,Crofton Road,1748590.24,5431776.141,Topright
+83,New,No-stopping,5.982499378,Kaiwharawhara Road,1749817.713,5430937.772,Topright
+83,New,No-stopping,5.982499378,Kaiwharawhara Road,1749814.561,5430942.565,Topright
+87,Old,Bus Stop,12.22008557,Kaiwharawhara Road,1749339.977,5431111.205,Topright
+87,Old,Bus Stop,12.22008557,Kaiwharawhara Road,1749351.423,5431115.435,Topright
+89,Old,No-stopping,19.98137291,Kaiwharawhara Road,1749791.227,5430962.495,Topright
+89,Old,No-stopping,19.98137291,Kaiwharawhara Road,1749807.304,5430951.661,Topright
